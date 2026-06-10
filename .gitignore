@@ -1,0 +1,25 @@
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Dossiers vidéos (trop lourds pour git)
+videos_en_cours/
+videos_finales/
+videos_sources/
+
+# Session HeyGen
+.heygen_session/
+
+# Fichier temporaire de redémarrage
+_restart_avf.bat
+
+# Fichiers de debug
+debug_*.png
+
+# Rapports auto-générés
+heygen_inspect_rapport.txt
+
+# Fichiers système Windows
+Thumbs.db
+desktop.ini
